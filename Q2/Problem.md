@@ -1,0 +1,1 @@
+Welcome to Mission Mode! This is where the Task Description for each assignment will appear.
